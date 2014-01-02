@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="a6a58751-790c-1e41-a680-246374781abd" kpf_version="4" name="ProjectEuler.kpf">
+<command cwd="%D" doNotOpenOutputWindow="0" env="" id="c198b08b-dbfb-a64d-83b6-5456bf165b69" idref="a6a58751-790c-1e41-a680-246374781abd" insertOutput="0" keyboard_shortcut="Meta+Return" name="RUNTHISFUCKER" operateOnSelection="0" parseOutput="0" parseRegex="" runIn="command-output-window" showParsedOutputList="0">
+chmod +x %F &amp;&amp; %F</command>
+<file id="eb0533b5-a527-f04e-a232-6027c621e065" idref="a6a58751-790c-1e41-a680-246374781abd" name="words.txt" url="words.txt">
+</file>
+<preference-set idref="a6a58751-790c-1e41-a680-246374781abd">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
